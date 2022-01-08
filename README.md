@@ -18,3 +18,7 @@ The advantage was clear that refactoring the VBA script decreased the time in ru
 
 ### Results:
 
+#### Result for 2017 Refactored
+
+#### Result for 2018 Refactored
+
