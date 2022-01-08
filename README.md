@@ -1,1 +1,1 @@
-# stock-analysis
+# An Analysis of Stocks
