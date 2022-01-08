@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Client needs assistance in creating VBA scripts in excel spreadsheet for analyzing dataset of stocks.
+Client needs assistance in creating VBA scripts in excel spreadsheet for analyzing dataset of green energy stocks.
 
 ## Summary and Results
 
