@@ -24,5 +24,5 @@ The advantage was clear that refactoring the VBA script decreased the time in ru
 
 #### Result for 2018 Refactored
 
-![This is an image]()
+![This is an image](https://github.com/paveenB/stock-analysis/blob/main/Combined_2018_Results.png)
 
